@@ -1,0 +1,6 @@
+pickle-mixin
+joblib
+pandas
+numpy
+textblob
+streamlit
