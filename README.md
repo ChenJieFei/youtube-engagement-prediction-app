@@ -38,3 +38,5 @@ streamlit run app.py
 \`\`\`
 
 Then, open your web browser and go to `http://localhost:8501` to access the app.
+
+Alternatively, you can also use the app directly on the website at https://youtube-engagement-prediction.streamlit.app/
