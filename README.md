@@ -19,7 +19,7 @@ Based on these inputs, the app outputs a prediction for the likes per viewer of 
 
 ## Model
 
-The machine learning model used in this app is LightGBM. It uses various features extracted from the inputs, including text features.
+The machine learning model used in this app is LightGBM. It uses various features extracted from the inputs, including text features. A detailed Jupyter notebook containing EDA, data pre-processing, feature engineering, and model training/validation has been provided in this repository. 
 
 ## Installation
 
