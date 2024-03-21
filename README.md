@@ -1,6 +1,6 @@
 # YouTube Video Engagement Predictor
 
-This is a Streamlit app (youtube-engagement-prediction.streamlit.app/) that predicts YouTube video engagement based on video metadata. The app predicts the likes per viewer of a video using a machine learning model trained on data from the Kaggle competition "Predict YouTube Video Likes (Pog Series #1)", a competition supported by the Twitch data science community.
+This is a Streamlit app (https://youtube-engagement-prediction.streamlit.app/) that predicts YouTube video engagement based on video metadata. The app predicts the likes per viewer of a video using a machine learning model trained on data from the Kaggle competition "Predict YouTube Video Likes (Pog Series #1)", a competition supported by the Twitch data science community.
 
 ## Features
 
